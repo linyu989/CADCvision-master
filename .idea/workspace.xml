@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56e0c951-6f69-496d-b3b6-d13d9110b6cc" name="Default Changelist" comment="update parameters" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="17155e05-a100-44e4-81c2-7f641c73c11d" />
+  <component name="ProjectId" id="1iMcxlJ47a3kCxa1hg2TDup1y8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calibration" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="CADCvision" is-module-sdk="true">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="CADCvision" />
+      </console-settings>
+    </option>
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\linyu\PycharmProjects\CADCvision-master\calibration" />
+      <recent name="C:\Users\linyu\PycharmProjects\CADCvision-master - final\detection" />
+      <recent name="C:\Users\linyu\PycharmProjects\CADCvision-master - final\calibration" />
+      <recent name="C:\Users\linyu\PycharmProjects\CADCvision-master\images" />
+      <recent name="C:\Users\linyu\PycharmProjects\CADCvision-master\order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="button_create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/order" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/order/button_create.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coord_calibrate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/order" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/order/coord_calibrate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_stitching" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stitching" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stitching/image_stitching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shape_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detection/shape_detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CADCvision-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.shape_detect" />
+        <item itemvalue="Python.coord_calibrate" />
+        <item itemvalue="Python.button_create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\linyu\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56e0c951-6f69-496d-b3b6-d13d9110b6cc" name="Default Changelist" comment="" />
+      <created>1601721149083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601721149083</updated>
+      <workItem from="1601721150378" duration="188000" />
+      <workItem from="1601721418762" duration="1450000" />
+      <workItem from="1601723134763" duration="2334000" />
+      <workItem from="1601725513621" duration="442000" />
+      <workItem from="1601725970215" duration="4804000" />
+      <workItem from="1601809500226" duration="25190000" />
+      <workItem from="1601986058130" duration="233000" />
+      <workItem from="1601986817773" duration="3788000" />
+      <workItem from="1602071046464" duration="24770000" />
+      <workItem from="1602164604851" duration="3673000" />
+      <workItem from="1602243093292" duration="3912000" />
+      <workItem from="1602295033267" duration="12580000" />
+      <workItem from="1602328620647" duration="1663000" />
+      <workItem from="1602330300276" duration="4976000" />
+      <workItem from="1602402070676" duration="6736000" />
+      <workItem from="1602411087974" duration="1489000" />
+      <workItem from="1602414797548" duration="2191000" />
+      <workItem from="1602514046461" duration="2186000" />
+      <workItem from="1602561274123" duration="4040000" />
+      <workItem from="1602565346304" duration="1371000" />
+      <workItem from="1602567431232" duration="1477000" />
+      <workItem from="1602568937804" duration="351000" />
+      <workItem from="1602569305684" duration="285000" />
+      <workItem from="1602569614150" duration="610000" />
+      <workItem from="1602570270682" duration="235000" />
+      <workItem from="1603027884457" duration="707000" />
+      <workItem from="1603106850641" duration="928000" />
+      <workItem from="1603363880189" duration="7114000" />
+      <workItem from="1603458411813" duration="29000" />
+      <workItem from="1603676676777" duration="205000" />
+      <workItem from="1603677380006" duration="4724000" />
+      <workItem from="1603683961371" duration="2751000" />
+      <workItem from="1603940109446" duration="17000" />
+      <workItem from="1604553693790" duration="6000" />
+      <workItem from="1605355621617" duration="98000" />
+      <workItem from="1605424227592" duration="1067000" />
+      <workItem from="1606392440298" duration="531000" />
+      <workItem from="1606639616407" duration="7000" />
+      <workItem from="1606639644840" duration="7000" />
+      <workItem from="1606653604154" duration="3000" />
+      <workItem from="1607339818872" duration="128000" />
+      <workItem from="1607339997573" duration="120000" />
+      <workItem from="1607340381313" duration="1836000" />
+      <workItem from="1607342253802" duration="50000" />
+      <workItem from="1607342321939" duration="823000" />
+      <workItem from="1607343380966" duration="70000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1603686552472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603686552472</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1607341365793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607341365793</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1607341538466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607341538466</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1607341826493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607341826493</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update parameters">
+      <created>1607342185076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342185076</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update parameters">
+      <created>1607343220892</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607343220892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <MESSAGE value="update parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="update parameters" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601725646127">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="293" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.930@0.0.1707.930" timestamp="1601725646127" />
+    <state x="965" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603679336224">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="965" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1707.930@0.0.1707.930" timestamp="1603679336224" />
+    <state x="77" y="78" width="1519" height="742" key="DiffContextDialog" timestamp="1603686459991">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="77" y="78" width="1519" height="742" key="DiffContextDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686459991" />
+    <state x="668" y="367" key="Github.CreateGistDialog" timestamp="1603686313644">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="668" y="367" key="Github.CreateGistDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686313644" />
+    <state x="650" y="358" key="Github.ShareDialog" timestamp="1603686195862">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="650" y="358" key="Github.ShareDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686195862" />
+    <state x="625" y="171" key="Github.UntrackedFilesDialog" timestamp="1603686202961">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="625" y="171" key="Github.UntrackedFilesDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686202961" />
+    <state width="1314" height="289" key="GridCell.Tab.0.bottom" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.0.bottom/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.0.center" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.0.center/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.0.left" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.0.left/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.0.right" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.0.right/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.1.bottom" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.1.bottom/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.1.center" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.1.center/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.1.left" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.1.left/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state width="1314" height="289" key="GridCell.Tab.1.right" timestamp="1602562164882">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state width="1314" height="289" key="GridCell.Tab.1.right/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
+    <state x="492" y="51" key="SettingsEditor" timestamp="1607343433094">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="492" y="51" key="SettingsEditor/0.0.1707.930@0.0.1707.930" timestamp="1607343433094" />
+    <state x="447" y="199" key="Vcs.Push.Dialog.v2" timestamp="1607342274567">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="447" y="199" key="Vcs.Push.Dialog.v2/0.0.1707.930@0.0.1707.930" timestamp="1607342274567" />
+    <state x="651" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607341533154">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="651" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.930@0.0.1707.930" timestamp="1607341533154" />
+    <state x="940" y="170" width="650" height="594" key="find.popup" timestamp="1603685764913">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="940" y="170" width="650" height="594" key="find.popup/0.0.1707.930@0.0.1707.930" timestamp="1603685764913" />
+    <state x="615" y="149" key="svn.repositoryBrowser" timestamp="1603686131577">
+      <screen x="0" y="0" width="1707" height="930" />
+    </state>
+    <state x="615" y="149" key="svn.repositoryBrowser/0.0.1707.930@0.0.1707.930" timestamp="1603686131577" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CADCvision$button_create.coverage" NAME="button_create Coverage Results" MODIFIED="1602134677727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/order" />
+    <SUITE FILE_PATH="coverage/CADCvision_master$image_stitching.coverage" NAME="image_stitching Coverage Results" MODIFIED="1602562161314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stitching" />
+    <SUITE FILE_PATH="coverage/CADCvision$shape_detect.coverage" NAME="shape_detect Coverage Results" MODIFIED="1602166974378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/detection" />
+    <SUITE FILE_PATH="coverage/CADCvision$image_stitching.coverage" NAME="image_stitching Coverage Results" MODIFIED="1602328755863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stitching" />
+    <SUITE FILE_PATH="coverage/CADCvision$order_master.coverage" NAME="order_master Coverage Results" MODIFIED="1602129778423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/order" />
+    <SUITE FILE_PATH="coverage/CADCvision$coord_calibrate.coverage" NAME="coord_calibrate Coverage Results" MODIFIED="1602151137306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/order" />
+    <SUITE FILE_PATH="coverage/CADCvision$main.coverage" NAME="main Coverage Results" MODIFIED="1602320727862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
