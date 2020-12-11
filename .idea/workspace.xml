@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56e0c951-6f69-496d-b3b6-d13d9110b6cc" name="Default Changelist" comment="update parameters" />
+    <list default="true" id="56e0c951-6f69-496d-b3b6-d13d9110b6cc" name="Default Changelist" comment="update parameters">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/calibration" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -293,6 +296,11 @@
       <workItem from="1607342253802" duration="50000" />
       <workItem from="1607342321939" duration="823000" />
       <workItem from="1607343380966" duration="70000" />
+      <workItem from="1607343469302" duration="338000" />
+      <workItem from="1607344126264" duration="832000" />
+      <workItem from="1607354955974" duration="70000" />
+      <workItem from="1607355841308" duration="926000" />
+      <workItem from="1607705286385" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1603686552472</created>
@@ -379,14 +387,14 @@
       <screen x="0" y="0" width="1707" height="930" />
     </state>
     <state x="668" y="367" key="Github.CreateGistDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686313644" />
-    <state x="650" y="358" key="Github.ShareDialog" timestamp="1603686195862">
+    <state x="650" y="358" key="Github.ShareDialog" timestamp="1607343522671">
       <screen x="0" y="0" width="1707" height="930" />
     </state>
-    <state x="650" y="358" key="Github.ShareDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686195862" />
-    <state x="625" y="171" key="Github.UntrackedFilesDialog" timestamp="1603686202961">
+    <state x="650" y="358" key="Github.ShareDialog/0.0.1707.930@0.0.1707.930" timestamp="1607343522671" />
+    <state x="625" y="171" key="Github.UntrackedFilesDialog" timestamp="1607343543162">
       <screen x="0" y="0" width="1707" height="930" />
     </state>
-    <state x="625" y="171" key="Github.UntrackedFilesDialog/0.0.1707.930@0.0.1707.930" timestamp="1603686202961" />
+    <state x="625" y="171" key="Github.UntrackedFilesDialog/0.0.1707.930@0.0.1707.930" timestamp="1607343543162" />
     <state width="1314" height="289" key="GridCell.Tab.0.bottom" timestamp="1602562164882">
       <screen x="0" y="0" width="1707" height="930" />
     </state>
@@ -419,10 +427,10 @@
       <screen x="0" y="0" width="1707" height="930" />
     </state>
     <state width="1314" height="289" key="GridCell.Tab.1.right/0.0.1707.930@0.0.1707.930" timestamp="1602562164882" />
-    <state x="492" y="51" key="SettingsEditor" timestamp="1607343433094">
+    <state x="459" y="0" key="SettingsEditor" timestamp="1607705344349">
       <screen x="0" y="0" width="1707" height="930" />
     </state>
-    <state x="492" y="51" key="SettingsEditor/0.0.1707.930@0.0.1707.930" timestamp="1607343433094" />
+    <state x="459" y="0" key="SettingsEditor/0.0.1707.930@0.0.1707.930" timestamp="1607705344349" />
     <state x="447" y="199" key="Vcs.Push.Dialog.v2" timestamp="1607342274567">
       <screen x="0" y="0" width="1707" height="930" />
     </state>

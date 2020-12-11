@@ -95,6 +95,7 @@ while True:
 
     cv.circle(frame_cat, (YLLeft, xLine), radiusL, (0, 255, 0))
     cv.circle(frame_cat, (YLRight, xLine), radiusR, (0, 255, 0))
+    cv.circle(frame_cat, (YLLeft, xLine), 240, (0, 255, 0))
 
     if (cvui.button(cvui_img, start_col, start_row, button_width, button_height, "Ball")):
         object_dict['object'] = 'q'
